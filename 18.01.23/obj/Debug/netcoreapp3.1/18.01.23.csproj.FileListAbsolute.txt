@@ -1,0 +1,14 @@
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.csproj.AssemblyReference.cache
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.AssemblyInfoInputs.cache
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.AssemblyInfo.cs
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.csproj.CoreCompileInputs.cache
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\bin\Debug\netcoreapp3.1\18.01.23.exe
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\bin\Debug\netcoreapp3.1\18.01.23.deps.json
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\bin\Debug\netcoreapp3.1\18.01.23.runtimeconfig.json
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\bin\Debug\netcoreapp3.1\18.01.23.runtimeconfig.dev.json
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\bin\Debug\netcoreapp3.1\18.01.23.dll
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\bin\Debug\netcoreapp3.1\18.01.23.pdb
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.dll
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.pdb
+C:\Users\irfanfy\source\repos\18.01.23\18.01.23\obj\Debug\netcoreapp3.1\18.01.23.genruntimeconfig.cache
